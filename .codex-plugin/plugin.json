@@ -1,0 +1,6 @@
+{
+  "name": "ux-reverse-engineering",
+  "version": "1.0.0",
+  "description": "Engenharia reversa de UX centrada no usuário para adaptar padrões de apps de referência a produtos reais, com benchmarking, evidências, implementação e experimentação.",
+  "skills": "./skills/"
+}
